@@ -1,0 +1,32 @@
+_repo: In-the-Wilderness_4603
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hichens, Robert
+    aliases:
+    - Hichens, Robert Smythe
+    - Hichens, Robert S. (Robert Smythe)
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '919'
+    url: http://www.gutenberg.org/2009/agents/919
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
+description: Cover -- Contents.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'English fiction -- 20th century'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: In the Wilderness
+url: http://www.gutenberg.org/ebooks/4603
